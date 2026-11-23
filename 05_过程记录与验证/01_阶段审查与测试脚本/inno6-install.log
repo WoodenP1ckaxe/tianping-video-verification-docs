@@ -1,0 +1,647 @@
+﻿2026-11-12 23:07:22.376   Log opened. (Time zone: UTC+08:00)
+2026-11-12 23:07:22.376   Setup version: Inno Setup version 6.7.4
+2026-11-12 23:07:22.376   Original Setup EXE: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\release-assets\innosetup-6.7.4.exe
+2026-11-12 23:07:22.376   Setup command line: /SL5="$309F0,9001174,950272,C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\release-assets\innosetup-6.7.4.exe" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /ALLUSERS /DIR="C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6" /NOICONS /LOG="C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\inno6-install.log"
+2026-11-12 23:07:22.376   Compatibility mode: Yes (DetectorsAppHealth Installer)
+2026-11-12 23:07:22.376   Windows version: 10.0.26200
+2026-11-12 23:07:22.376   Windows architecture: x64 (64-bit)
+2026-11-12 23:07:22.376   Machine types supported by system: x86 x64
+2026-11-12 23:07:22.376   User privileges: Administrative
+2026-11-12 23:07:22.379   Administrative install mode: Yes
+2026-11-12 23:07:22.379   Install mode root key: HKEY_LOCAL_MACHINE
+2026-11-12 23:07:22.379   64-bit install mode: No
+2026-11-12 23:07:22.379   RedirectionGuard status for current process: Enabled in enforcing mode
+2026-11-12 23:07:22.381   Created protected temporary directory: C:\Users\CYF\AppData\Local\Temp\is-5JQEL4SHJL.tmp
+2026-11-12 23:07:22.962   Found 23 files to register with RestartManager.
+2026-11-12 23:07:22.962   Calling RestartManager's RmGetList.
+2026-11-12 23:07:22.969   RmGetList finished successfully.
+2026-11-12 23:07:22.969   RestartManager found no applications using one of our files.
+2026-11-12 23:07:22.974   Starting the installation process.
+2026-11-12 23:07:22.976   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6
+2026-11-12 23:07:22.977   Directory for uninstall files: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6
+2026-11-12 23:07:22.977   Creating new uninstall log: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\unins000.dat
+2026-11-12 23:07:22.990   -- File entry --
+2026-11-12 23:07:22.992   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\unins000.exe
+2026-11-12 23:07:22.997   Time stamp of our file: 2026-11-12 23:07:22.237
+2026-11-12 23:07:22.997   Installing the file.
+2026-11-12 23:07:23.044   Successfully installed the file.
+2026-11-12 23:07:23.044   -- File entry --
+2026-11-12 23:07:23.044   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\license.txt
+2026-11-12 23:07:23.045   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:23.045   Installing the file.
+2026-11-12 23:07:23.047   Successfully installed the file.
+2026-11-12 23:07:23.047   -- File entry --
+2026-11-12 23:07:23.047   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISetup.chm
+2026-11-12 23:07:23.047   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:23.047   Installing the file.
+2026-11-12 23:07:23.056   Successfully installed the file.
+2026-11-12 23:07:23.056   -- File entry --
+2026-11-12 23:07:23.057   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISetup-dark.chm
+2026-11-12 23:07:23.057   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:23.057   Installing the file.
+2026-11-12 23:07:23.070   Successfully installed the file.
+2026-11-12 23:07:23.070   -- File entry --
+2026-11-12 23:07:23.072   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Compil32.exe
+2026-11-12 23:07:23.072   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:23.072   Installing the file.
+2026-11-12 23:07:24.353   Successfully installed the file.
+2026-11-12 23:07:24.353   -- File entry --
+2026-11-12 23:07:24.353   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isscint.dll
+2026-11-12 23:07:24.354   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:24.354   Installing the file.
+2026-11-12 23:07:24.503   Successfully installed the file.
+2026-11-12 23:07:24.503   -- File entry --
+2026-11-12 23:07:24.503   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isscint.dll.issig
+2026-11-12 23:07:24.504   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:24.504   Installing the file.
+2026-11-12 23:07:24.505   Successfully installed the file.
+2026-11-12 23:07:24.505   -- File entry --
+2026-11-12 23:07:24.505   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISCC.exe
+2026-11-12 23:07:24.505   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:24.505   Installing the file.
+2026-11-12 23:07:24.834   Successfully installed the file.
+2026-11-12 23:07:24.834   -- File entry --
+2026-11-12 23:07:24.834   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISCmplr.dll
+2026-11-12 23:07:24.835   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:24.835   Installing the file.
+2026-11-12 23:07:25.309   Successfully installed the file.
+2026-11-12 23:07:25.310   -- File entry --
+2026-11-12 23:07:25.310   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISCmplr.dll.issig
+2026-11-12 23:07:25.310   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:25.310   Installing the file.
+2026-11-12 23:07:25.311   Successfully installed the file.
+2026-11-12 23:07:25.311   -- File entry --
+2026-11-12 23:07:25.311   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Setup.e32
+2026-11-12 23:07:25.312   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:25.312   Installing the file.
+2026-11-12 23:07:26.493   Successfully installed the file.
+2026-11-12 23:07:26.493   -- File entry --
+2026-11-12 23:07:26.493   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Setup.e32.issig
+2026-11-12 23:07:26.493   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:26.493   Installing the file.
+2026-11-12 23:07:26.496   Successfully installed the file.
+2026-11-12 23:07:26.496   -- File entry --
+2026-11-12 23:07:26.496   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupCustomStyle.e32
+2026-11-12 23:07:26.496   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:26.496   Installing the file.
+2026-11-12 23:07:27.405   Successfully installed the file.
+2026-11-12 23:07:27.405   -- File entry --
+2026-11-12 23:07:27.405   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupCustomStyle.e32.issig
+2026-11-12 23:07:27.406   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:27.406   Installing the file.
+2026-11-12 23:07:27.407   Successfully installed the file.
+2026-11-12 23:07:27.407   -- File entry --
+2026-11-12 23:07:27.407   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupLdr.e32
+2026-11-12 23:07:27.407   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:27.407   Installing the file.
+2026-11-12 23:07:27.736   Successfully installed the file.
+2026-11-12 23:07:27.736   -- File entry --
+2026-11-12 23:07:27.736   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupLdr.e32.issig
+2026-11-12 23:07:27.737   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:27.737   Installing the file.
+2026-11-12 23:07:27.739   Successfully installed the file.
+2026-11-12 23:07:27.739   -- File entry --
+2026-11-12 23:07:27.739   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupLdr.e64
+2026-11-12 23:07:27.739   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:27.739   Installing the file.
+2026-11-12 23:07:28.084   Successfully installed the file.
+2026-11-12 23:07:28.084   -- File entry --
+2026-11-12 23:07:28.084   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupLdr.e64.issig
+2026-11-12 23:07:28.084   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.084   Installing the file.
+2026-11-12 23:07:28.086   Successfully installed the file.
+2026-11-12 23:07:28.086   -- File entry --
+2026-11-12 23:07:28.087   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Default.isl
+2026-11-12 23:07:28.087   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.087   Installing the file.
+2026-11-12 23:07:28.089   Successfully installed the file.
+2026-11-12 23:07:28.090   -- File entry --
+2026-11-12 23:07:28.090   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Arabic.isl
+2026-11-12 23:07:28.090   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.090   Installing the file.
+2026-11-12 23:07:28.090   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages
+2026-11-12 23:07:28.093   Successfully installed the file.
+2026-11-12 23:07:28.093   -- File entry --
+2026-11-12 23:07:28.094   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Armenian.isl
+2026-11-12 23:07:28.094   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.094   Installing the file.
+2026-11-12 23:07:28.096   Successfully installed the file.
+2026-11-12 23:07:28.096   -- File entry --
+2026-11-12 23:07:28.097   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\BrazilianPortuguese.isl
+2026-11-12 23:07:28.097   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.097   Installing the file.
+2026-11-12 23:07:28.099   Successfully installed the file.
+2026-11-12 23:07:28.099   -- File entry --
+2026-11-12 23:07:28.099   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Bulgarian.isl
+2026-11-12 23:07:28.099   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.099   Installing the file.
+2026-11-12 23:07:28.102   Successfully installed the file.
+2026-11-12 23:07:28.102   -- File entry --
+2026-11-12 23:07:28.102   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Catalan.isl
+2026-11-12 23:07:28.102   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.102   Installing the file.
+2026-11-12 23:07:28.104   Successfully installed the file.
+2026-11-12 23:07:28.104   -- File entry --
+2026-11-12 23:07:28.104   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Corsican.isl
+2026-11-12 23:07:28.105   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.105   Installing the file.
+2026-11-12 23:07:28.107   Successfully installed the file.
+2026-11-12 23:07:28.107   -- File entry --
+2026-11-12 23:07:28.107   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Czech.isl
+2026-11-12 23:07:28.108   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.108   Installing the file.
+2026-11-12 23:07:28.110   Successfully installed the file.
+2026-11-12 23:07:28.110   -- File entry --
+2026-11-12 23:07:28.110   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Danish.isl
+2026-11-12 23:07:28.111   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.111   Installing the file.
+2026-11-12 23:07:28.114   Successfully installed the file.
+2026-11-12 23:07:28.114   -- File entry --
+2026-11-12 23:07:28.114   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Dutch.isl
+2026-11-12 23:07:28.114   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.114   Installing the file.
+2026-11-12 23:07:28.115   Successfully installed the file.
+2026-11-12 23:07:28.117   -- File entry --
+2026-11-12 23:07:28.117   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Finnish.isl
+2026-11-12 23:07:28.117   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.117   Installing the file.
+2026-11-12 23:07:28.120   Successfully installed the file.
+2026-11-12 23:07:28.120   -- File entry --
+2026-11-12 23:07:28.120   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\French.isl
+2026-11-12 23:07:28.121   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.121   Installing the file.
+2026-11-12 23:07:28.123   Successfully installed the file.
+2026-11-12 23:07:28.123   -- File entry --
+2026-11-12 23:07:28.124   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\German.isl
+2026-11-12 23:07:28.124   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.124   Installing the file.
+2026-11-12 23:07:28.127   Successfully installed the file.
+2026-11-12 23:07:28.127   -- File entry --
+2026-11-12 23:07:28.127   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Hebrew.isl
+2026-11-12 23:07:28.127   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.127   Installing the file.
+2026-11-12 23:07:28.132   Successfully installed the file.
+2026-11-12 23:07:28.132   -- File entry --
+2026-11-12 23:07:28.132   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Hungarian.isl
+2026-11-12 23:07:28.132   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.132   Installing the file.
+2026-11-12 23:07:28.134   Successfully installed the file.
+2026-11-12 23:07:28.134   -- File entry --
+2026-11-12 23:07:28.134   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Italian.isl
+2026-11-12 23:07:28.136   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.136   Installing the file.
+2026-11-12 23:07:28.138   Successfully installed the file.
+2026-11-12 23:07:28.138   -- File entry --
+2026-11-12 23:07:28.139   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Japanese.isl
+2026-11-12 23:07:28.139   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.139   Installing the file.
+2026-11-12 23:07:28.141   Successfully installed the file.
+2026-11-12 23:07:28.141   -- File entry --
+2026-11-12 23:07:28.141   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Korean.isl
+2026-11-12 23:07:28.141   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.141   Installing the file.
+2026-11-12 23:07:28.143   Successfully installed the file.
+2026-11-12 23:07:28.144   -- File entry --
+2026-11-12 23:07:28.144   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Norwegian.isl
+2026-11-12 23:07:28.144   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.144   Installing the file.
+2026-11-12 23:07:28.146   Successfully installed the file.
+2026-11-12 23:07:28.146   -- File entry --
+2026-11-12 23:07:28.146   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Polish.isl
+2026-11-12 23:07:28.147   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.147   Installing the file.
+2026-11-12 23:07:28.148   Successfully installed the file.
+2026-11-12 23:07:28.148   -- File entry --
+2026-11-12 23:07:28.149   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Portuguese.isl
+2026-11-12 23:07:28.149   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.149   Installing the file.
+2026-11-12 23:07:28.151   Successfully installed the file.
+2026-11-12 23:07:28.151   -- File entry --
+2026-11-12 23:07:28.151   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Russian.isl
+2026-11-12 23:07:28.152   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.152   Installing the file.
+2026-11-12 23:07:28.153   Successfully installed the file.
+2026-11-12 23:07:28.153   -- File entry --
+2026-11-12 23:07:28.154   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Slovak.isl
+2026-11-12 23:07:28.154   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.154   Installing the file.
+2026-11-12 23:07:28.156   Successfully installed the file.
+2026-11-12 23:07:28.156   -- File entry --
+2026-11-12 23:07:28.156   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Slovenian.isl
+2026-11-12 23:07:28.157   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.157   Installing the file.
+2026-11-12 23:07:28.158   Successfully installed the file.
+2026-11-12 23:07:28.158   -- File entry --
+2026-11-12 23:07:28.158   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Spanish.isl
+2026-11-12 23:07:28.158   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.158   Installing the file.
+2026-11-12 23:07:28.160   Successfully installed the file.
+2026-11-12 23:07:28.160   -- File entry --
+2026-11-12 23:07:28.160   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Swedish.isl
+2026-11-12 23:07:28.161   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.161   Installing the file.
+2026-11-12 23:07:28.163   Successfully installed the file.
+2026-11-12 23:07:28.163   -- File entry --
+2026-11-12 23:07:28.163   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Tamil.isl
+2026-11-12 23:07:28.163   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.163   Installing the file.
+2026-11-12 23:07:28.165   Successfully installed the file.
+2026-11-12 23:07:28.165   -- File entry --
+2026-11-12 23:07:28.165   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Thai.isl
+2026-11-12 23:07:28.166   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.166   Installing the file.
+2026-11-12 23:07:28.168   Successfully installed the file.
+2026-11-12 23:07:28.168   -- File entry --
+2026-11-12 23:07:28.168   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Turkish.isl
+2026-11-12 23:07:28.169   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.169   Installing the file.
+2026-11-12 23:07:28.171   Successfully installed the file.
+2026-11-12 23:07:28.171   -- File entry --
+2026-11-12 23:07:28.171   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Languages\Ukrainian.isl
+2026-11-12 23:07:28.171   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.171   Installing the file.
+2026-11-12 23:07:28.174   Successfully installed the file.
+2026-11-12 23:07:28.174   -- File entry --
+2026-11-12 23:07:28.174   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\SetupClassicIcon.ico
+2026-11-12 23:07:28.174   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.174   Installing the file.
+2026-11-12 23:07:28.176   Successfully installed the file.
+2026-11-12 23:07:28.176   -- File entry --
+2026-11-12 23:07:28.176   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\WizClassicImage.bmp
+2026-11-12 23:07:28.176   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.176   Installing the file.
+2026-11-12 23:07:28.178   Successfully installed the file.
+2026-11-12 23:07:28.178   -- File entry --
+2026-11-12 23:07:28.178   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\WizClassicImage-IS.bmp
+2026-11-12 23:07:28.178   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.178   Installing the file.
+2026-11-12 23:07:28.182   Successfully installed the file.
+2026-11-12 23:07:28.182   -- File entry --
+2026-11-12 23:07:28.182   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\WizClassicSmallImage.bmp
+2026-11-12 23:07:28.182   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.182   Installing the file.
+2026-11-12 23:07:28.184   Successfully installed the file.
+2026-11-12 23:07:28.184   -- File entry --
+2026-11-12 23:07:28.184   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\WizClassicSmallImage-IS.bmp
+2026-11-12 23:07:28.184   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.184   Installing the file.
+2026-11-12 23:07:28.186   Successfully installed the file.
+2026-11-12 23:07:28.186   -- File entry --
+2026-11-12 23:07:28.187   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7z.dll
+2026-11-12 23:07:28.187   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.187   Installing the file.
+2026-11-12 23:07:28.366   Successfully installed the file.
+2026-11-12 23:07:28.366   -- File entry --
+2026-11-12 23:07:28.366   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7z.dll.issig
+2026-11-12 23:07:28.366   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.366   Installing the file.
+2026-11-12 23:07:28.367   Successfully installed the file.
+2026-11-12 23:07:28.368   -- File entry --
+2026-11-12 23:07:28.368   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7zxa.dll
+2026-11-12 23:07:28.368   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.368   Installing the file.
+2026-11-12 23:07:28.461   Successfully installed the file.
+2026-11-12 23:07:28.461   -- File entry --
+2026-11-12 23:07:28.461   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7zxa.dll.issig
+2026-11-12 23:07:28.461   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.461   Installing the file.
+2026-11-12 23:07:28.463   Successfully installed the file.
+2026-11-12 23:07:28.463   -- File entry --
+2026-11-12 23:07:28.463   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7zxr.dll
+2026-11-12 23:07:28.463   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.463   Installing the file.
+2026-11-12 23:07:28.540   Successfully installed the file.
+2026-11-12 23:07:28.540   -- File entry --
+2026-11-12 23:07:28.541   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\is7zxr.dll.issig
+2026-11-12 23:07:28.541   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.541   Installing the file.
+2026-11-12 23:07:28.542   Successfully installed the file.
+2026-11-12 23:07:28.542   -- File entry --
+2026-11-12 23:07:28.542   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\iszlib.dll
+2026-11-12 23:07:28.542   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.542   Installing the file.
+2026-11-12 23:07:28.553   Successfully installed the file.
+2026-11-12 23:07:28.553   -- File entry --
+2026-11-12 23:07:28.553   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\iszlib.dll.issig
+2026-11-12 23:07:28.553   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.553   Installing the file.
+2026-11-12 23:07:28.556   Successfully installed the file.
+2026-11-12 23:07:28.556   -- File entry --
+2026-11-12 23:07:28.556   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isunzlib.dll
+2026-11-12 23:07:28.557   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.557   Installing the file.
+2026-11-12 23:07:28.566   Successfully installed the file.
+2026-11-12 23:07:28.566   -- File entry --
+2026-11-12 23:07:28.566   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isunzlib.dll.issig
+2026-11-12 23:07:28.566   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.566   Installing the file.
+2026-11-12 23:07:28.568   Successfully installed the file.
+2026-11-12 23:07:28.568   -- File entry --
+2026-11-12 23:07:28.568   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isbzip.dll
+2026-11-12 23:07:28.568   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.568   Installing the file.
+2026-11-12 23:07:28.579   Successfully installed the file.
+2026-11-12 23:07:28.579   -- File entry --
+2026-11-12 23:07:28.579   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isbzip.dll.issig
+2026-11-12 23:07:28.579   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.579   Installing the file.
+2026-11-12 23:07:28.581   Successfully installed the file.
+2026-11-12 23:07:28.581   -- File entry --
+2026-11-12 23:07:28.581   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isbunzip.dll
+2026-11-12 23:07:28.582   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.582   Installing the file.
+2026-11-12 23:07:28.592   Successfully installed the file.
+2026-11-12 23:07:28.592   -- File entry --
+2026-11-12 23:07:28.592   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isbunzip.dll.issig
+2026-11-12 23:07:28.592   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.592   Installing the file.
+2026-11-12 23:07:28.594   Successfully installed the file.
+2026-11-12 23:07:28.594   -- File entry --
+2026-11-12 23:07:28.594   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma.dll
+2026-11-12 23:07:28.594   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.594   Installing the file.
+2026-11-12 23:07:28.664   Successfully installed the file.
+2026-11-12 23:07:28.664   -- File entry --
+2026-11-12 23:07:28.665   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma.dll.issig
+2026-11-12 23:07:28.665   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.665   Installing the file.
+2026-11-12 23:07:28.666   Successfully installed the file.
+2026-11-12 23:07:28.666   -- File entry --
+2026-11-12 23:07:28.666   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma32.exe
+2026-11-12 23:07:28.667   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.667   Installing the file.
+2026-11-12 23:07:28.764   Successfully installed the file.
+2026-11-12 23:07:28.764   -- File entry --
+2026-11-12 23:07:28.764   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma32.exe.issig
+2026-11-12 23:07:28.764   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.764   Installing the file.
+2026-11-12 23:07:28.766   Successfully installed the file.
+2026-11-12 23:07:28.766   -- File entry --
+2026-11-12 23:07:28.766   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma64.exe
+2026-11-12 23:07:28.766   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.766   Installing the file.
+2026-11-12 23:07:28.878   Successfully installed the file.
+2026-11-12 23:07:28.878   -- File entry --
+2026-11-12 23:07:28.878   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\islzma64.exe.issig
+2026-11-12 23:07:28.879   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.879   Installing the file.
+2026-11-12 23:07:28.880   Successfully installed the file.
+2026-11-12 23:07:28.880   -- File entry --
+2026-11-12 23:07:28.880   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISPP.dll
+2026-11-12 23:07:28.880   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:28.880   Installing the file.
+2026-11-12 23:07:29.134   Successfully installed the file.
+2026-11-12 23:07:29.134   -- File entry --
+2026-11-12 23:07:29.135   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISPP.dll.issig
+2026-11-12 23:07:29.135   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.135   Installing the file.
+2026-11-12 23:07:29.135   Successfully installed the file.
+2026-11-12 23:07:29.136   -- File entry --
+2026-11-12 23:07:29.136   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISPPBuiltins.iss
+2026-11-12 23:07:29.136   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.136   Installing the file.
+2026-11-12 23:07:29.137   Successfully installed the file.
+2026-11-12 23:07:29.137   -- File entry --
+2026-11-12 23:07:29.137   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\ISSigTool.exe
+2026-11-12 23:07:29.138   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.138   Installing the file.
+2026-11-12 23:07:29.417   Successfully installed the file.
+2026-11-12 23:07:29.417   -- File entry --
+2026-11-12 23:07:29.417   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\whatsnew.htm
+2026-11-12 23:07:29.418   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.418   Installing the file.
+2026-11-12 23:07:29.420   Successfully installed the file.
+2026-11-12 23:07:29.420   -- File entry --
+2026-11-12 23:07:29.421   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\64Bit.iss
+2026-11-12 23:07:29.421   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.421   Installing the file.
+2026-11-12 23:07:29.421   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples
+2026-11-12 23:07:29.422   Successfully installed the file.
+2026-11-12 23:07:29.422   -- File entry --
+2026-11-12 23:07:29.423   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\64BitTwoArch.iss
+2026-11-12 23:07:29.423   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.423   Installing the file.
+2026-11-12 23:07:29.425   Successfully installed the file.
+2026-11-12 23:07:29.426   -- File entry --
+2026-11-12 23:07:29.426   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\64BitThreeArch.iss
+2026-11-12 23:07:29.426   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.426   Installing the file.
+2026-11-12 23:07:29.427   Successfully installed the file.
+2026-11-12 23:07:29.427   -- File entry --
+2026-11-12 23:07:29.428   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\AllPagesExample.iss
+2026-11-12 23:07:29.428   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.428   Installing the file.
+2026-11-12 23:07:29.429   Successfully installed the file.
+2026-11-12 23:07:29.429   -- File entry --
+2026-11-12 23:07:29.430   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeAutomation.iss
+2026-11-12 23:07:29.430   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.430   Installing the file.
+2026-11-12 23:07:29.431   Successfully installed the file.
+2026-11-12 23:07:29.431   -- File entry --
+2026-11-12 23:07:29.432   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeAutomation2.iss
+2026-11-12 23:07:29.432   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.432   Installing the file.
+2026-11-12 23:07:29.433   Successfully installed the file.
+2026-11-12 23:07:29.433   -- File entry --
+2026-11-12 23:07:29.433   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeClasses.iss
+2026-11-12 23:07:29.433   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.433   Installing the file.
+2026-11-12 23:07:29.435   Successfully installed the file.
+2026-11-12 23:07:29.435   -- File entry --
+2026-11-12 23:07:29.435   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeDlg.iss
+2026-11-12 23:07:29.435   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.435   Installing the file.
+2026-11-12 23:07:29.437   Successfully installed the file.
+2026-11-12 23:07:29.437   -- File entry --
+2026-11-12 23:07:29.437   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeDll.iss
+2026-11-12 23:07:29.437   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.437   Installing the file.
+2026-11-12 23:07:29.439   Successfully installed the file.
+2026-11-12 23:07:29.439   -- File entry --
+2026-11-12 23:07:29.439   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeDownloadFiles.iss
+2026-11-12 23:07:29.439   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.439   Installing the file.
+2026-11-12 23:07:29.440   Successfully installed the file.
+2026-11-12 23:07:29.440   -- File entry --
+2026-11-12 23:07:29.441   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodeExample1.iss
+2026-11-12 23:07:29.441   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.441   Installing the file.
+2026-11-12 23:07:29.442   Successfully installed the file.
+2026-11-12 23:07:29.442   -- File entry --
+2026-11-12 23:07:29.443   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\CodePrepareToInstall.iss
+2026-11-12 23:07:29.443   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.443   Installing the file.
+2026-11-12 23:07:29.444   Successfully installed the file.
+2026-11-12 23:07:29.444   -- File entry --
+2026-11-12 23:07:29.445   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Components.iss
+2026-11-12 23:07:29.445   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.445   Installing the file.
+2026-11-12 23:07:29.446   Successfully installed the file.
+2026-11-12 23:07:29.446   -- File entry --
+2026-11-12 23:07:29.446   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\DownloadFiles.iss
+2026-11-12 23:07:29.446   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.446   Installing the file.
+2026-11-12 23:07:29.448   Successfully installed the file.
+2026-11-12 23:07:29.448   -- File entry --
+2026-11-12 23:07:29.448   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Example1.iss
+2026-11-12 23:07:29.448   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.448   Installing the file.
+2026-11-12 23:07:29.449   Successfully installed the file.
+2026-11-12 23:07:29.449   -- File entry --
+2026-11-12 23:07:29.449   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Example2.iss
+2026-11-12 23:07:29.449   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.449   Installing the file.
+2026-11-12 23:07:29.450   Successfully installed the file.
+2026-11-12 23:07:29.451   -- File entry --
+2026-11-12 23:07:29.451   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Example3.iss
+2026-11-12 23:07:29.451   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.451   Installing the file.
+2026-11-12 23:07:29.452   Successfully installed the file.
+2026-11-12 23:07:29.452   -- File entry --
+2026-11-12 23:07:29.453   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\ISPPExample1.iss
+2026-11-12 23:07:29.453   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.453   Installing the file.
+2026-11-12 23:07:29.454   Successfully installed the file.
+2026-11-12 23:07:29.454   -- File entry --
+2026-11-12 23:07:29.455   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\ISPPExample1License.txt
+2026-11-12 23:07:29.455   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.455   Installing the file.
+2026-11-12 23:07:29.456   Successfully installed the file.
+2026-11-12 23:07:29.456   -- File entry --
+2026-11-12 23:07:29.456   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\License.txt
+2026-11-12 23:07:29.456   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.456   Installing the file.
+2026-11-12 23:07:29.457   Successfully installed the file.
+2026-11-12 23:07:29.457   -- File entry --
+2026-11-12 23:07:29.457   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Languages.iss
+2026-11-12 23:07:29.458   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.458   Installing the file.
+2026-11-12 23:07:29.459   Successfully installed the file.
+2026-11-12 23:07:29.459   -- File entry --
+2026-11-12 23:07:29.459   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll.dll
+2026-11-12 23:07:29.460   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.460   Installing the file.
+2026-11-12 23:07:29.469   Successfully installed the file.
+2026-11-12 23:07:29.469   -- File entry --
+2026-11-12 23:07:29.469   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyProg.chm
+2026-11-12 23:07:29.470   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.470   Installing the file.
+2026-11-12 23:07:29.471   Successfully installed the file.
+2026-11-12 23:07:29.471   -- File entry --
+2026-11-12 23:07:29.472   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyProg.exe
+2026-11-12 23:07:29.472   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.472   Installing the file.
+2026-11-12 23:07:29.501   Successfully installed the file.
+2026-11-12 23:07:29.501   -- File entry --
+2026-11-12 23:07:29.502   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyProg-Arm64.exe
+2026-11-12 23:07:29.502   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.502   Installing the file.
+2026-11-12 23:07:29.519   Successfully installed the file.
+2026-11-12 23:07:29.519   -- File entry --
+2026-11-12 23:07:29.519   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyProg-x64.exe
+2026-11-12 23:07:29.519   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.519   Installing the file.
+2026-11-12 23:07:29.550   Successfully installed the file.
+2026-11-12 23:07:29.550   -- File entry --
+2026-11-12 23:07:29.551   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\PowerShell.iss
+2026-11-12 23:07:29.551   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.551   Installing the file.
+2026-11-12 23:07:29.552   Successfully installed the file.
+2026-11-12 23:07:29.552   -- File entry --
+2026-11-12 23:07:29.553   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Readme.txt
+2026-11-12 23:07:29.553   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.553   Installing the file.
+2026-11-12 23:07:29.555   Successfully installed the file.
+2026-11-12 23:07:29.556   -- File entry --
+2026-11-12 23:07:29.556   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Readme-Dutch.txt
+2026-11-12 23:07:29.556   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.556   Installing the file.
+2026-11-12 23:07:29.558   Successfully installed the file.
+2026-11-12 23:07:29.558   -- File entry --
+2026-11-12 23:07:29.558   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\Readme-German.txt
+2026-11-12 23:07:29.558   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.558   Installing the file.
+2026-11-12 23:07:29.559   Successfully installed the file.
+2026-11-12 23:07:29.559   -- File entry --
+2026-11-12 23:07:29.560   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\UnicodeExample1.iss
+2026-11-12 23:07:29.560   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.560   Installing the file.
+2026-11-12 23:07:29.561   Successfully installed the file.
+2026-11-12 23:07:29.561   -- File entry --
+2026-11-12 23:07:29.561   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\UninstallCodeExample1.iss
+2026-11-12 23:07:29.561   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.561   Installing the file.
+2026-11-12 23:07:29.562   Successfully installed the file.
+2026-11-12 23:07:29.562   -- File entry --
+2026-11-12 23:07:29.563   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C\MyDll.c
+2026-11-12 23:07:29.563   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.563   Installing the file.
+2026-11-12 23:07:29.563   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll
+2026-11-12 23:07:29.564   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C
+2026-11-12 23:07:29.565   Successfully installed the file.
+2026-11-12 23:07:29.565   -- File entry --
+2026-11-12 23:07:29.566   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C\MyDll.def
+2026-11-12 23:07:29.566   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.566   Installing the file.
+2026-11-12 23:07:29.567   Successfully installed the file.
+2026-11-12 23:07:29.567   -- File entry --
+2026-11-12 23:07:29.567   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C\MyDll.dsp
+2026-11-12 23:07:29.567   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.567   Installing the file.
+2026-11-12 23:07:29.569   Successfully installed the file.
+2026-11-12 23:07:29.569   -- File entry --
+2026-11-12 23:07:29.569   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\MyDll.cs
+2026-11-12 23:07:29.569   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.570   Installing the file.
+2026-11-12 23:07:29.570   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#
+2026-11-12 23:07:29.571   Successfully installed the file.
+2026-11-12 23:07:29.571   -- File entry --
+2026-11-12 23:07:29.571   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\MyDll.csproj
+2026-11-12 23:07:29.572   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.572   Installing the file.
+2026-11-12 23:07:29.573   Successfully installed the file.
+2026-11-12 23:07:29.573   -- File entry --
+2026-11-12 23:07:29.573   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\MyDll.sln
+2026-11-12 23:07:29.573   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.573   Installing the file.
+2026-11-12 23:07:29.575   Successfully installed the file.
+2026-11-12 23:07:29.575   -- File entry --
+2026-11-12 23:07:29.575   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\packages.config
+2026-11-12 23:07:29.575   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.575   Installing the file.
+2026-11-12 23:07:29.576   Successfully installed the file.
+2026-11-12 23:07:29.576   -- File entry --
+2026-11-12 23:07:29.577   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\Properties\AssemblyInfo.cs
+2026-11-12 23:07:29.577   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.577   Installing the file.
+2026-11-12 23:07:29.577   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\C#\Properties
+2026-11-12 23:07:29.579   Successfully installed the file.
+2026-11-12 23:07:29.579   -- File entry --
+2026-11-12 23:07:29.579   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\Delphi\MyDll.dpr
+2026-11-12 23:07:29.579   Time stamp of our file: 2026-10-26 08:00:00.000
+2026-11-12 23:07:29.579   Installing the file.
+2026-11-12 23:07:29.579   Creating directory: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Examples\MyDll\Delphi
+2026-11-12 23:07:29.580   Successfully installed the file.
+2026-11-12 23:07:29.581   -- INI entry --
+2026-11-12 23:07:29.581   Dest filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\isfaq.url
+2026-11-12 23:07:29.581   Section: InternetShortcut
+2026-11-12 23:07:29.581   Entry: URL
+2026-11-12 23:07:29.581   Value: https://jrsoftware.org/isfaq.php
+2026-11-12 23:07:29.581   Updating the .INI file.
+2026-11-12 23:07:29.581   Successfully updated the .INI file.
+2026-11-12 23:07:29.582   Saving uninstall information.
+2026-11-12 23:07:29.582   Writing uninstaller messages: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\unins000.msg
+2026-11-12 23:07:29.582   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Inno Setup 6_is1
+2026-11-12 23:07:29.582   Writing uninstall key values.
+2026-11-12 23:07:29.585   Detected previous non administrative install? No
+2026-11-12 23:07:29.585   Detected previous administrative 64-bit install? No
+2026-11-12 23:07:29.591   Installation process succeeded.
+2026-11-12 23:07:29.595   -- Run entry --
+2026-11-12 23:07:29.595   Run as: Current user
+2026-11-12 23:07:29.595   Type: Exec
+2026-11-12 23:07:29.595   Filename: C:\Users\CYF\Desktop\天平校验视频分析项目\tianping-system\verification\InnoSetup6\Compil32.exe
+2026-11-12 23:07:29.595   Parameters: /ASSOC
+2026-11-12 23:07:29.719   Process exit code: 0
+2026-11-12 23:07:29.722   Need to restart Windows? No
+2026-11-12 23:07:29.724   Deinitializing Setup.
+2026-11-12 23:07:29.731   Log closed.

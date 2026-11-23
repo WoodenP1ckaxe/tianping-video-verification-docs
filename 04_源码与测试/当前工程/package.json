@@ -1,0 +1,34 @@
+{
+  "name": "tianping-video-verification",
+  "version": "1.0.9",
+  "private": true,
+  "type": "module",
+  "description": "电子天平日常校验视频分析系统",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test --test-concurrency=1",
+    "check": "node scripts/check.js",
+    "audit:asr": "node scripts/audit-asr-audio.mjs",
+    "prepare:asr": "node scripts/fetch-release-assets.mjs --asr && node scripts/prepare-asr-assets.mjs",
+    "repo:status": "node scripts/repo-manager.mjs status",
+    "repo:check": "node scripts/repo-manager.mjs check",
+    "repo:create": "node scripts/repo-manager.mjs create",
+    "repo:commit": "node scripts/repo-manager.mjs commit",
+    "repo:backup": "node scripts/repo-manager.mjs backup",
+    "repair:sample-evidence": "node scripts/repair-sample-evidence.js",
+    "make-offline-bundle": "node scripts/make-offline-bundle.js"
+  },
+  "dependencies": {
+    "@hyzyla/pdfium": "3.0.0",
+    "@tesseract.js-data/eng": "^1.0.0",
+    "jpeg-js": "^0.4.4",
+    "jsqr": "^1.4.0",
+    "pngjs": "7.0.0",
+    "qrcode-generator": "1.4.4",
+    "tesseract.js": "^7.0.0"
+  }
+}

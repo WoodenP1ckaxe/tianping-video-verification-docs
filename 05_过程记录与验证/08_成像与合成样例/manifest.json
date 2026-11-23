@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-11-01",
+  "generator": "../generate-synthetic-samples.mjs",
+  "cards": {
+    "person-U001": "QR content U001",
+    "person-U002": "QR content U002",
+    "device-F001": "QR content F001",
+    "device-F002": "QR content F002"
+  },
+  "overlayTimeline": {
+    "personCardSeconds": [2, 8],
+    "deviceCardSeconds": [10, 16]
+  },
+  "videos": [
+    {
+      "file": "synthetic-single-F001-U001.mp4",
+      "base": "295ed49aaa4dc37eadf402db4d0b7434.mp4",
+      "expectedIdentity": ["U001", "F001"],
+      "creationTime": "2026-09-28T00:31:00.000000Z",
+      "sha256": "3D1CDDC8B8BF517BADB50A859BE86E8AEEFA149007C6D025154029A6C2CDC91B"
+    },
+    {
+      "file": "synthetic-dual-F002-U002.mp4",
+      "base": "13d9ccc8268f3f6c7d1dfd33e9716159.mp4",
+      "expectedIdentity": ["U002", "F002"],
+      "creationTime": "2026-09-27T23:58:00.000000Z",
+      "sha256": "3190567AB93DADDDEECFB5F0DEE0511A842FAA7A14F056375C35EF03AA19B682"
+    },
+    {
+      "file": "synthetic-device-conflict-F002-U001.mp4",
+      "base": "295ed49aaa4dc37eadf402db4d0b7434.mp4",
+      "expectedIdentity": ["U001", "F002"],
+      "expectedBehavior": "设备卡 F002 与 F001 读数冲突，待人工处理",
+      "creationTime": "2026-09-28T00:31:00.000000Z",
+      "sha256": "7793A774EA0AB3C5BD8FCCF31BE69D2A699CB118663068561978D532BEF274C4"
+    }
+  ]
+}

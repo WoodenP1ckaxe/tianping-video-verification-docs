@@ -1,0 +1,6 @@
+services:
+  tianping:
+    environment:
+      PDF_FONT_PATH: /test-assets/NotoSansCJKsc-VF.ttf
+    volumes:
+      - ./.test-assets:/test-assets:ro

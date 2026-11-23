@@ -1,0 +1,634 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T13:30:56.155Z",
+  "purpose": "客户样例真实音频识别诊断；仅评估辅助能力，不参与核心判定",
+  "status": {
+    "engine": "whisper.cpp",
+    "supported": true,
+    "enabled": true,
+    "available": true,
+    "state": "ready",
+    "binaryPresent": true,
+    "modelPresent": true,
+    "vadModelPresent": true,
+    "ffmpegPresent": true,
+    "binaryName": "whisper-cli.exe",
+    "modelName": "ggml-base-q5_1.bin",
+    "vadModelName": "ggml-silero-v6.2.0.bin",
+    "language": "zh",
+    "threads": 2,
+    "confidenceThreshold": 0.8,
+    "vadThreshold": 0.5,
+    "audioPolicy": "temporary-video-derived-pcm-deleted-after-inference",
+    "recommendedProfile": {
+      "engine": "whisper.cpp",
+      "model": "ggml-base-q5_1.bin",
+      "language": "zh",
+      "threads": 2,
+      "precision": "q5_1",
+      "vad": "silero-v6.2.0"
+    }
+  },
+  "results": [
+    {
+      "sourceFile": "13d9ccc8268f3f6c7d1dfd33e9716159.mp4",
+      "durationSeconds": 393.621167,
+      "expectedConclusion": "不通过",
+      "state": "completed",
+      "elapsedMs": 6077,
+      "engine": "whisper.cpp",
+      "vad": {
+        "engine": "silero-vad-6.2.0",
+        "model": "ggml-silero-v6.2.0.bin",
+        "threshold": 0.5
+      },
+      "transcript": [
+        {
+          "text": "202026年9月10日",
+          "startMs": 2820,
+          "endMs": 6330,
+          "confidence": 0.5857
+        },
+        {
+          "text": "天平教院",
+          "startMs": 6330,
+          "endMs": 9040,
+          "confidence": 0.37
+        },
+        {
+          "text": "天平編號",
+          "startMs": 9040,
+          "endMs": 12410,
+          "confidence": 0.4684
+        },
+        {
+          "text": "F022",
+          "startMs": 12410,
+          "endMs": 16800,
+          "confidence": 0.4038
+        },
+        {
+          "text": "教院人員",
+          "startMs": 16800,
+          "endMs": 20080,
+          "confidence": 0.6517
+        },
+        {
+          "text": "GY001",
+          "startMs": 20080,
+          "endMs": 24150,
+          "confidence": 0.5285
+        },
+        {
+          "text": "開始教院",
+          "startMs": 24150,
+          "endMs": 28450,
+          "confidence": 0.6331
+        },
+        {
+          "text": "100克",
+          "startMs": 28450,
+          "endMs": 47930,
+          "confidence": 0.3777
+        },
+        {
+          "text": "第一次承諾",
+          "startMs": 47930,
+          "endMs": 49530,
+          "confidence": 0.5227
+        },
+        {
+          "text": "100克",
+          "startMs": 49530,
+          "endMs": 72740,
+          "confidence": 0.5476
+        },
+        {
+          "text": "第二次承諾",
+          "startMs": 72740,
+          "endMs": 74210,
+          "confidence": 0.7279
+        },
+        {
+          "text": "100克",
+          "startMs": 74210,
+          "endMs": 100970,
+          "confidence": 0.6788
+        },
+        {
+          "text": "第三次承諾",
+          "startMs": 100970,
+          "endMs": 102270,
+          "confidence": 0.8001
+        },
+        {
+          "text": "換梁承",
+          "startMs": 102270,
+          "endMs": 120730,
+          "confidence": 0.3572
+        },
+        {
+          "text": "二十克",
+          "startMs": 120730,
+          "endMs": 163080,
+          "confidence": 0.6972
+        },
+        {
+          "text": "第一次承諾",
+          "startMs": 163080,
+          "endMs": 164540,
+          "confidence": 0.8138
+        },
+        {
+          "text": "二十克",
+          "startMs": 164540,
+          "endMs": 192340,
+          "confidence": 0.7206
+        },
+        {
+          "text": "第二次承諾",
+          "startMs": 192340,
+          "endMs": 193470,
+          "confidence": 0.8332
+        },
+        {
+          "text": "二十克",
+          "startMs": 193470,
+          "endMs": 225100,
+          "confidence": 0.7227
+        },
+        {
+          "text": "第三次承諾",
+          "startMs": 225100,
+          "endMs": 231300,
+          "confidence": 0.8358
+        },
+        {
+          "text": "第一次承諾",
+          "startMs": 231300,
+          "endMs": 277760,
+          "confidence": 0.828
+        },
+        {
+          "text": "二克",
+          "startMs": 277760,
+          "endMs": 321500,
+          "confidence": 0.6368
+        },
+        {
+          "text": "第二次承諾",
+          "startMs": 321500,
+          "endMs": 322810,
+          "confidence": 0.8514
+        },
+        {
+          "text": "第三次成了,教驗完成",
+          "startMs": 322810,
+          "endMs": 391090,
+          "confidence": 0.5466
+        }
+      ],
+      "observed": {
+        "numberSequences": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ],
+        "fields": {
+          "cleanliness": null,
+          "level": null,
+          "internalCal": null
+        },
+        "qualitative": []
+      },
+      "sequenceReconciliation": {
+        "matchedCount": 8,
+        "conflictCount": 0,
+        "unresolvedCount": 1,
+        "conflicts": [],
+        "unresolved": [
+          {
+            "sequence": 1,
+            "spoken": "第一次",
+            "startMs": 231300,
+            "endMs": 277760,
+            "confidence": 0.828,
+            "requiresReview": true,
+            "text": "第一次承諾",
+            "stableSequence": null,
+            "state": "unresolved",
+            "gapSeconds": 26.47
+          }
+        ]
+      },
+      "manifestHint": {
+        "cleanliness": {
+          "v": "是",
+          "conf": 0.945
+        },
+        "level": {
+          "v": "是",
+          "conf": 0.937
+        },
+        "internalCal": {
+          "v": "是",
+          "conf": 0.921
+        },
+        "sequenceKeywords": [
+          "第一次",
+          "第二次",
+          "第三次",
+          "第四次",
+          "第五次",
+          "第六次",
+          "第七次",
+          "第八次",
+          "第九次"
+        ]
+      },
+      "warnings": [
+        "语音“第一次”附近未找到稳定读数段；请人工核对"
+      ]
+    },
+    {
+      "sourceFile": "295ed49aaa4dc37eadf402db4d0b7434.mp4",
+      "durationSeconds": 272.399667,
+      "expectedConclusion": "通过",
+      "state": "completed",
+      "elapsedMs": 5365,
+      "engine": "whisper.cpp",
+      "vad": {
+        "engine": "silero-vad-6.2.0",
+        "model": "ggml-silero-v6.2.0.bin",
+        "threshold": 0.5
+      },
+      "transcript": [
+        {
+          "text": "2026年9月10日",
+          "startMs": 1600,
+          "endMs": 5610,
+          "confidence": 0.6234
+        },
+        {
+          "text": "天平教验",
+          "startMs": 5610,
+          "endMs": 7930,
+          "confidence": 0.3125
+        },
+        {
+          "text": "天平编号",
+          "startMs": 7930,
+          "endMs": 11570,
+          "confidence": 0.474
+        },
+        {
+          "text": "F011",
+          "startMs": 11570,
+          "endMs": 14800,
+          "confidence": 0.5678
+        },
+        {
+          "text": "教验人员",
+          "startMs": 14800,
+          "endMs": 18380,
+          "confidence": 0.754
+        },
+        {
+          "text": "JY001",
+          "startMs": 18380,
+          "endMs": 31920,
+          "confidence": 0.5441
+        },
+        {
+          "text": "200克",
+          "startMs": 31920,
+          "endMs": 40300,
+          "confidence": 0.5622
+        },
+        {
+          "text": "第一次程重",
+          "startMs": 40300,
+          "endMs": 49750,
+          "confidence": 0.5106
+        },
+        {
+          "text": "200克",
+          "startMs": 49750,
+          "endMs": 70530,
+          "confidence": 0.6423
+        },
+        {
+          "text": "第二次程重",
+          "startMs": 70530,
+          "endMs": 71520,
+          "confidence": 0.7788
+        },
+        {
+          "text": "200克",
+          "startMs": 71520,
+          "endMs": 97620,
+          "confidence": 0.742
+        },
+        {
+          "text": "第三次程重",
+          "startMs": 97620,
+          "endMs": 98880,
+          "confidence": 0.7686
+        },
+        {
+          "text": "10克",
+          "startMs": 98880,
+          "endMs": 128690,
+          "confidence": 0.5274
+        },
+        {
+          "text": "第一次程重",
+          "startMs": 128690,
+          "endMs": 131550,
+          "confidence": 0.8431
+        },
+        {
+          "text": "10克",
+          "startMs": 131550,
+          "endMs": 149160,
+          "confidence": 0.7284
+        },
+        {
+          "text": "第二次程重",
+          "startMs": 149160,
+          "endMs": 150140,
+          "confidence": 0.8134
+        },
+        {
+          "text": "50克",
+          "startMs": 150140,
+          "endMs": 173890,
+          "confidence": 0.5837
+        },
+        {
+          "text": "第三次程重",
+          "startMs": 173890,
+          "endMs": 178080,
+          "confidence": 0.8527
+        },
+        {
+          "text": "10克",
+          "startMs": 178080,
+          "endMs": 207030,
+          "confidence": 0.7162
+        },
+        {
+          "text": "第一次程重",
+          "startMs": 207030,
+          "endMs": 209980,
+          "confidence": 0.8685
+        },
+        {
+          "text": "10克",
+          "startMs": 209980,
+          "endMs": 227840,
+          "confidence": 0.7267
+        },
+        {
+          "text": "第二次程重",
+          "startMs": 227840,
+          "endMs": 229020,
+          "confidence": 0.7933
+        },
+        {
+          "text": "2克",
+          "startMs": 229020,
+          "endMs": 252130,
+          "confidence": 0.4387
+        },
+        {
+          "text": "第三次程重",
+          "startMs": 252130,
+          "endMs": 253760,
+          "confidence": 0.8027
+        },
+        {
+          "text": "教育院完成",
+          "startMs": 253760,
+          "endMs": 270080,
+          "confidence": 0.4093
+        }
+      ],
+      "observed": {
+        "numberSequences": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ],
+        "fields": {
+          "cleanliness": null,
+          "level": null,
+          "internalCal": null
+        },
+        "qualitative": []
+      },
+      "sequenceReconciliation": {
+        "matchedCount": 9,
+        "conflictCount": 0,
+        "unresolvedCount": 0,
+        "conflicts": [],
+        "unresolved": []
+      },
+      "manifestHint": {
+        "cleanliness": {
+          "v": "是",
+          "conf": 0.951
+        },
+        "level": {
+          "v": "是",
+          "conf": 0.943
+        },
+        "internalCal": {
+          "v": "是",
+          "conf": 0.917
+        },
+        "sequenceKeywords": [
+          "第一次",
+          "第二次",
+          "第三次",
+          "第四次",
+          "第五次",
+          "第六次",
+          "第七次",
+          "第八次",
+          "第九次"
+        ]
+      },
+      "warnings": []
+    },
+    {
+      "sourceFile": "63bb2c36627c4e7efdfa6cf7a85bddec.mp4",
+      "durationSeconds": 286.991417,
+      "expectedConclusion": "通过",
+      "state": "completed",
+      "elapsedMs": 4154,
+      "engine": "whisper.cpp",
+      "vad": {
+        "engine": "silero-vad-6.2.0",
+        "model": "ggml-silero-v6.2.0.bin",
+        "threshold": 0.5
+      },
+      "transcript": [
+        {
+          "text": "2026年9月10日 天平教業",
+          "startMs": 2980,
+          "endMs": 11770,
+          "confidence": 0.5083
+        },
+        {
+          "text": "天平編號 台府",
+          "startMs": 11770,
+          "endMs": 16470,
+          "confidence": 0.5228
+        },
+        {
+          "text": "002 教業人員",
+          "startMs": 16470,
+          "endMs": 21840,
+          "confidence": 0.6062
+        },
+        {
+          "text": "GY002",
+          "startMs": 21840,
+          "endMs": 40840,
+          "confidence": 0.4867
+        },
+        {
+          "text": "100克 第一次承量",
+          "startMs": 40840,
+          "endMs": 56370,
+          "confidence": 0.5451
+        },
+        {
+          "text": "100克 第二次承量",
+          "startMs": 56370,
+          "endMs": 80320,
+          "confidence": 0.8548
+        },
+        {
+          "text": "100克 第三次承量",
+          "startMs": 80320,
+          "endMs": 129150,
+          "confidence": 0.808
+        },
+        {
+          "text": "20克 第一次承量",
+          "startMs": 129150,
+          "endMs": 148400,
+          "confidence": 0.8232
+        },
+        {
+          "text": "20克 第二次承量",
+          "startMs": 148400,
+          "endMs": 171480,
+          "confidence": 0.8481
+        },
+        {
+          "text": "20克 第三次承量",
+          "startMs": 171480,
+          "endMs": 204090,
+          "confidence": 0.8205
+        },
+        {
+          "text": "第一次承量 第二次承量",
+          "startMs": 204090,
+          "endMs": 249850,
+          "confidence": 0.8759
+        },
+        {
+          "text": "第三次承量 教業完畢",
+          "startMs": 249850,
+          "endMs": 284290,
+          "confidence": 0.8077
+        }
+      ],
+      "observed": {
+        "numberSequences": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ],
+        "fields": {
+          "cleanliness": null,
+          "level": null,
+          "internalCal": null
+        },
+        "qualitative": []
+      },
+      "sequenceReconciliation": {
+        "matchedCount": 8,
+        "conflictCount": 1,
+        "unresolvedCount": 0,
+        "conflicts": [
+          {
+            "sequence": 2,
+            "spoken": "第二次",
+            "startMs": 204090,
+            "endMs": 249850,
+            "confidence": 0.8759,
+            "requiresReview": true,
+            "text": "第一次承量 第二次承量",
+            "stableSequence": 7,
+            "stablePoint": 2,
+            "stableIdx": 1,
+            "matchScope": null,
+            "state": "conflict",
+            "gapSeconds": 1.97
+          }
+        ],
+        "unresolved": []
+      },
+      "manifestHint": {
+        "cleanliness": {
+          "v": "是",
+          "conf": 0.936
+        },
+        "level": {
+          "v": "是",
+          "conf": 0.928
+        },
+        "internalCal": {
+          "v": "是",
+          "conf": 0.916
+        },
+        "sequenceKeywords": [
+          "第一次",
+          "第二次",
+          "第三次",
+          "第四次",
+          "第五次",
+          "第六次",
+          "第七次",
+          "第八次",
+          "第九次"
+        ]
+      },
+      "warnings": [
+        "语音“第二次”与稳定读数段第 7 次不一致；以稳定段为主，并标记待核对"
+      ]
+    }
+  ]
+}

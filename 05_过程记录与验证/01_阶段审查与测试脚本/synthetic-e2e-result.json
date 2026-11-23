@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-11-01T07:58:05.609Z",
+  "samples": {
+    "single": {
+      "task": "T-202611011557-051C31",
+      "record": "20260928-F001-02",
+      "conclusion": "通过",
+      "personCard": {
+        "account": "U001",
+        "conf": 0.98,
+        "source": "qr"
+      },
+      "deviceCard": {
+        "code": "F001",
+        "conf": 0.98,
+        "source": "qr"
+      },
+      "effectiveStartTime": "2026-09-28 08:31",
+      "screenshots": 9
+    },
+    "dual": {
+      "task": "T-202611011557-D62FA4",
+      "record": "20260928-F002-02",
+      "conclusion": "不通过",
+      "rangeTransition": {
+        "detected": true,
+        "method": "stable-reading-sequence",
+        "fromRange": 1,
+        "toRange": 2,
+        "startOffsetSeconds": 106,
+        "endOffsetSeconds": 168,
+        "gapSeconds": 62,
+        "sampleCountBefore": 3,
+        "sampleCountAfter": 6
+      },
+      "screenshots": 9
+    },
+    "personConflict": {
+      "task": "T-202611011557-494BCC",
+      "status": "待人工处理",
+      "reason": "人员卡与登录人员不一致：视频中识别为 U001，任务归属 U002，未生成正式记录"
+    },
+    "deviceConflict": {
+      "task": "T-202611011557-8D1D49",
+      "status": "待人工处理",
+      "reason": "设备卡识别为 F002，读数匹配为 F001，未生成正式记录"
+    }
+  }
+}

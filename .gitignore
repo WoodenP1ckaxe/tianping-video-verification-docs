@@ -1,0 +1,41 @@
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+ssh_key/
+
+# Runtime data and generated databases
+data/
+backups/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Dependencies, caches and build output
+node_modules/
+**/__pycache__/
+**/npm-cache/
+**/release-build/
+**/release-assets/
+**/.browser-data/
+coverage/
+
+# Installers and large build artifacts
+release/
+asr/
+*.exe
+*.msi
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+$null
+
